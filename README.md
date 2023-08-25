@@ -174,8 +174,8 @@ The distance from center was converted from pixels to meters by multiplying the 
 We implemented all pipeline in `main.py`. Main method is `process_image` in line 363 in `Line_detector` class.
 
 ## 🤝 Contributors
-- @(Vaibhav Mishra)[https://vaibhav-mishra.vercel.app/]
-- @(Gaytri Sran)[https://gaytrisran03.github.io/portfolio-gaytri/]
+- [Vaibhav Mishra](https://vaibhav-mishra.vercel.app/)
+- [Gaytri Sran](https://gaytrisran03.github.io/portfolio-gaytri/)
 
  Thank You
 ---
