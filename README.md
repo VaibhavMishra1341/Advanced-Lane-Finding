@@ -1,5 +1,8 @@
 # Advanced Lane Finding
 
+## Introduction
+Welcome to the Advanced Lane Finding GitHub repository! 🛣️ Here, we've crafted a cutting-edge lane detection pipeline that combines perspective transformation, color analysis, and polynomial fitting to accurately identify lanes on the road. Whether you're a developer or an enthusiast, join us in exploring the world of advanced computer vision for safer and smarter driving! 🚗👀
+
 [//]: # (Image References)
 
 [image1]: https://github.com/yukitsuji/Advanced_Lane_Finding/blob/master/output_images/calibration1.jpg?raw=true "Undistorted"
@@ -169,6 +172,10 @@ The distance from center was converted from pixels to meters by multiplying the 
 ### 6. Providing the computed output
 
 We implemented all pipeline in `main.py`. Main method is `process_image` in line 363 in `Line_detector` class.
+
+## 🤝 Contributors
+- @(Vaibhav Mishra)[https://vaibhav-mishra.vercel.app/]
+- @(Gaytri Sran)[https://gaytrisran03.github.io/portfolio-gaytri/]
 
  Thank You
 ---
