@@ -1,7 +1,10 @@
 # Advanced Lane Finding
 
+![1 mIUGhx7xauG007984AhUiA](https://github.com/VaibhavMishra1341/Advanced-Lane-Finding/assets/39896268/5fc9f34d-c65a-4e73-a6bf-6403418df068)
+
 ## Introduction
-Welcome to the Advanced Lane Finding GitHub repository! 🛣️ Here, we've crafted a cutting-edge lane detection pipeline that combines perspective transformation, color analysis, and polynomial fitting to accurately identify lanes on the road. Whether you're a developer or an enthusiast, join us in exploring the world of advanced computer vision for safer and smarter driving! 🚗👀
+
+Welcome to the Advanced Lane Finding GitHub repository! 🛣️ Here, we've crafted a cutting-edge lane detection pipeline that combines perspective transformation, color analysis, and polynomial fitting to identify lanes on the road accurately. Whether you're a developer or an enthusiast, join us in exploring the world of advanced computer vision for safer and smarter driving! 🚗👀
 
 [//]: # (Image References)
 
